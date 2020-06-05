@@ -23,3 +23,4 @@
 +오픈소프트웨어 실습
 +12주차
 <http://www.kiu.ac.kr>
+![intel](/images/Intel.jpg)
